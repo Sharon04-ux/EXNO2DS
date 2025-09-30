@@ -1,6 +1,6 @@
 # EXNO2DS
-# NAME : ADHARSH VIDYARDH U
-# REG NO:212224230007
+# NAME : SHARON ARUL BHARATHI J.F.
+# REG NO:212224100056
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
